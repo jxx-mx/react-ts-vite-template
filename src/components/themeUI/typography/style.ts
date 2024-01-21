@@ -23,12 +23,12 @@ const StyledTypographyItem = styled.div<{
     justify-content: space-between;
     align-items: center;
     padding: 12px 4px;
-    border-bottom: 1px solid ${theme.colors.grey[90]};
+    border-bottom: 1px solid ${theme.colors.gray[90]};
     cursor: pointer;
     color: ${color};
 
     &:hover {
-      border-bottom: 2px solid ${theme.colors.grey[90]};
+      border-bottom: 2px solid ${theme.colors.gray[90]};
       padding: 12px 24px 12px 4px;
     }
 
