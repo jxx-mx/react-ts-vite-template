@@ -3,7 +3,8 @@
 Framework : [React@18.2.0](https://react.dev) </br>
 TypeScript : [TypeScript@5.2.2](https://www.typescriptlang.org/ko/) </br>
 Css : [Emotion/react@11.11.3](https://emotion.sh/docs/introduction) </br>
-Build: [vite@5.0.8](https://vitejs.dev)
+Build: [vite@5.0.8](https://vitejs.dev) </br>
+SVG: [vite-plugin-svgr@4.2.0](https://www.npmjs.com/package/vite-plugin-svgr)
 </br>
 
 # How to use
