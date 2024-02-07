@@ -118,6 +118,10 @@ export const reset = css`
   li {
     list-style: none;
   }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
   blockquote,
   q {
     quotes: none;
